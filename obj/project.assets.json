@@ -5855,11 +5855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NAV\\VSC\\ZUGFERD\\ZUGFeRd.csproj",
+      "projectUniqueName": "c:\\NAV\\VSC\\ZUGfERDSampleExtract\\ZUGFeRd.csproj",
       "projectName": "ZUGFeRd",
-      "projectPath": "C:\\NAV\\VSC\\ZUGFERD\\ZUGFeRd.csproj",
+      "projectPath": "c:\\NAV\\VSC\\ZUGfERDSampleExtract\\ZUGFeRd.csproj",
       "packagesPath": "C:\\Users\\sak01\\.nuget\\packages\\",
-      "outputPath": "C:\\NAV\\VSC\\ZUGFERD\\obj\\",
+      "outputPath": "c:\\NAV\\VSC\\ZUGfERDSampleExtract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
