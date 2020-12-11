@@ -1,0 +1,11 @@
+C:\NAV\VSC\ZUGFERD\bin\Debug\netcoreapp2.1\ZUGFeRd.deps.json
+C:\NAV\VSC\ZUGFERD\bin\Debug\netcoreapp2.1\ZUGFeRd.runtimeconfig.json
+C:\NAV\VSC\ZUGFERD\bin\Debug\netcoreapp2.1\ZUGFeRd.runtimeconfig.dev.json
+C:\NAV\VSC\ZUGFERD\bin\Debug\netcoreapp2.1\ZUGFeRd.dll
+C:\NAV\VSC\ZUGFERD\bin\Debug\netcoreapp2.1\ZUGFeRd.pdb
+C:\NAV\VSC\ZUGFERD\obj\Debug\netcoreapp2.1\ZUGFeRd.csprojAssemblyReference.cache
+C:\NAV\VSC\ZUGFERD\obj\Debug\netcoreapp2.1\ZUGFeRd.csproj.CoreCompileInputs.cache
+C:\NAV\VSC\ZUGFERD\obj\Debug\netcoreapp2.1\ZUGFeRd.AssemblyInfoInputs.cache
+C:\NAV\VSC\ZUGFERD\obj\Debug\netcoreapp2.1\ZUGFeRd.AssemblyInfo.cs
+C:\NAV\VSC\ZUGFERD\obj\Debug\netcoreapp2.1\ZUGFeRd.dll
+C:\NAV\VSC\ZUGFERD\obj\Debug\netcoreapp2.1\ZUGFeRd.pdb
